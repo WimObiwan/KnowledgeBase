@@ -2,7 +2,10 @@ title: Knowledge Base
 email: wim@obiwan.be
 description: > # this means to ignore newlines until "baseurl:"
   A blog to share knowledge between colleagues and friends.
-permalink: ':title/'
+
+# Permalinks
+permalink: /:year/:month/:day/:title/
+
 baseurl: "/KnowledgeBase" # the subpath of your site, e.g. /blog
 url: "https://wimobiwan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
