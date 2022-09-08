@@ -5,7 +5,7 @@ date: 2022-09-07 23:00:00 +0200
 description: An explanation on how to create a new post
 img: jekyll.webp
 tags: [blog]
-author: wim # Add name author (optional)
+author: Wim
 ---
 # Intro
  
@@ -33,7 +33,7 @@ Any method submitting a pull request will work, but if you are new to Git / GitH
  
 Other info:
 * A good howto using the Git command line can be found [here](https://opensource.com/article/19/7/create-pull-request-github).
-* If you prefer open source, another good graphical Git client is [Git Extensions](http://gitextensions.github.io/))
+* If you prefer open source, another good graphical Git client is [Git Extensions](http://gitextensions.github.io/)
  
 # Creating a new post
  
