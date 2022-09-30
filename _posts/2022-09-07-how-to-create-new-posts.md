@@ -13,6 +13,7 @@ Welcome to the *Knowledge Base*, an attempt to share knowledge and ideas
 between colleagues and friends.
 
 The site is:
+
 * a simple *blog* without an imposed structure, but with some freely assigned
   tags
 * without implied ownership: an open-source (GPL) GitHub project that anyone
@@ -28,8 +29,9 @@ The site is:
 
 # Submit a pull request with a new or updated post
 
-Any method submitting a pull request will work, but if you are new to Git / 
+Any method submitting a pull request will work, but if you are new to Git /
 GitHub / Pull Requests:
+
 * Make sure you have a GitHub account
 * Install a Git client (a suggest using
   [GitKraken](https://www.gitkraken.com/)), log in (you can use your GitHub
@@ -43,6 +45,7 @@ GitHub / Pull Requests:
 * Submit your branch as a pull request
 
 Other info:
+
 * A good howto using the Git command line can be found
   [here](https://opensource.com/article/19/7/create-pull-request-github).
 * If you prefer open source, another good graphical Git client is
@@ -51,8 +54,9 @@ Other info:
 # Creating a new post
 
 In Jekyll / GitHub pages,
+
 * All articles of the blog are located in the `_posts`
-* Copy `.template-post.md` and give it a name like 
+* Copy `.template-post.md` and give it a name like
   `YYYY-MM-DD-blazor-wasm-hotreload.md`, or start from a copy of any existing
   post.
 * Open the new file in an editor.  I strongly suggest to use a modern one like
