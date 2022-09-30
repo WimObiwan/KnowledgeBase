@@ -29,7 +29,6 @@ jobs:
 
       # Install your linters here
 
-      - name: Run linters
-        uses: wearerequired/lint-action@v2
-        with:
-          # Enable your linters here
+      - name: Run Markdown Lint
+        uses: actionshub/markdownlint@main
+        
