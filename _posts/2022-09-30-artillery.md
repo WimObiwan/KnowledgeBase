@@ -14,7 +14,7 @@ author: wim
 
 "Launching 10,000 browsers for fun and profit"
 
-![Demo GIF](../assets/img/2022-09-30-artillery-playwright-load-testing-browsers.gif)
+![Demo GIF]({{site.baseurl}}/assets/img/2022-09-30-artillery-playwright-load-testing-browsers.gif)
 
 ## Access tokens
 
