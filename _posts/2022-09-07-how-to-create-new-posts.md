@@ -8,9 +8,9 @@ tags: [blog]
 author: Wim
 ---
 # Intro
- 
+
 Welcome to the *Knowledge Base*, an attempt to share knowledge and ideas between colleagues and friends.
- 
+
 The site is:
 * a simple *blog* without an imposed structure, but with some freely assigned tags
 * without implied ownership: an open-source (GPL) GitHub project that anyone can use / fork / extend / ..., and hopefully contribute
@@ -30,7 +30,7 @@ Any method submitting a pull request will work, but if you are new to Git / GitH
 * Do your necessary changes (create a new post or updating an existing one).  This is explained in detail in the next topic.
 * Commit your changes
 * Submit your branch as a pull request
- 
+
 Other info:
 * A good howto using the Git command line can be found [here](https://opensource.com/article/19/7/create-pull-request-github).
 * If you prefer open source, another good graphical Git client is [Git Extensions](http://gitextensions.github.io/)
