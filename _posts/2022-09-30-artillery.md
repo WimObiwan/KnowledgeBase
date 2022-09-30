@@ -10,6 +10,17 @@ author: wim
 
 # Artillery.io
 
+Artillery is an open-source performance & reliability testing suite for
+developers & SREs
+
+- Emulate user behavior with scenarios - with multiple steps, transactions,
+  request chaining, and more
+- Run scenarios as load tests or end-to-end synthetic tests
+- Full-stack attack - test at the protocol level (HTTP, WebSocket,
+  Socket.io, and more) or with real headless browsers
+- And lots more: detailed performance metrics, monitoring/o11y integrations,
+  extension APIs for custom scripting in JavaScript, and plugins
+
 [Why artillery](https://www.artillery.io/docs/guides/overview/why-artillery)
 
 "Launching 10,000 browsers for fun and profit"
