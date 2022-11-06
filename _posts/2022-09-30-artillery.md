@@ -4,7 +4,7 @@ title: artillery.io
 date: 2022-09-30 22:30:00 +0200
 description: Website or API load testing with Artillery.io
 img: loadtesting.jpg
-tags: [blog, testing]
+tags: [testing]
 author: wim
 ---
 
